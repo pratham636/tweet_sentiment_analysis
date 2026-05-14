@@ -48,8 +48,8 @@ Pratham
 Student, University of Passau
 # 📊 Model Results (Example)
 After running your script, update these values based on your terminal output:
-| Model | Accuracy |Precision|Recall|| F1-Score |
+| Model | Accuracy | Precision | Recall | F1-Score |
 | :--- | :---: | :---: |:---: |:---: |
-| Logistic Regression | 0.81|0.57|0.81|0.67|
-| Naive Bayes | 0.80|0.55|0.78|0.65 |
-| Linear SVM | 0.81|0.56|0.80|0.66|
+| Logistic Regression | 0.81 | 0.57 | 0.81 | 0.67|
+| Naive Bayes | 0.80 | 0.55 | 0.78 | 0.65 |
+| Linear SVM | 0.81 | 0.56 | 0.80 | 0.66 |
