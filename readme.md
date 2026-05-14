@@ -1,7 +1,7 @@
-**🐦 Tweet Sentiment Analysis
+#🐦 Tweet Sentiment Analysis
 
 This project implements a complete machine learning pipeline to classify tweets into Positive or Negative sentiments. It utilizes Natural Language Processing (NLP) to clean raw text, extract meaningful features, and compare the performance of three different classification algorithms.
-**📂 Project Structure
+##📂 Project Structure
 
 Following the organization in the repository:Plaintext
 ```TWEET_SENTIMENT_ANALYSIS
