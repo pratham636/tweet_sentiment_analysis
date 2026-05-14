@@ -33,7 +33,8 @@ Each model is assessed using a comprehensive suite of metrics:Accuracy: Overall 
 
 InstallationEnsure Python is installed.Install the necessary dependencies:
 ```
-Bash pip install -r requirements.txt
+Bash
+pip install -r requirements.txt
 ```
 Running the AnalysisExecute the main script to train the models and generate performance reports:Bash
 ```
@@ -42,8 +43,13 @@ python main.py
 ## 🛠️ Tech Stack
 Language: PythonLibraries: Pandas, Scikit-Learn, Matplotlib, 
 ReDevOps: Docker
-👤 Author
+# 👤 Author
 Pratham
 Student, University of Passau
-📊 Model Results (Example)
-After running your script, update these values based on your terminal output:ModelAccuracyF1-ScoreLogistic Regression0.XX0.XXNaive Bayes0.XX0.XXLinear SVM0.XX0.XX
+# 📊 Model Results (Example)
+After running your script, update these values based on your terminal output:
+| Model | Accuracy |Precision|Recall|| F1-Score |
+| :--- | :---: | :---: |
+| Logistic Regression | 0.81|0.57|0.81|0.67|
+| Naive Bayes | 0.80|0.55|0.78|0.65 |
+| Linear SVM | 0.81|0.56|0.80|0.66|
