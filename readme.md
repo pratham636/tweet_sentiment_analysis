@@ -34,6 +34,8 @@ Each model is assessed using a comprehensive suite of metrics:Accuracy: Overall 
 InstallationEnsure Python is installed.Install the necessary dependencies:
 ```
 Bash
+```
+```
 pip install -r requirements.txt
 ```
 Running the AnalysisExecute the main script to train the models and generate performance reports:Bash
