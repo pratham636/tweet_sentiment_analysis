@@ -32,10 +32,12 @@ Each model is assessed using a comprehensive suite of metrics:Accuracy: Overall 
 ## 🚀 Getting Started
 
 InstallationEnsure Python is installed.Install the necessary dependencies:
-```Bashpip install -r requirements.txt
+```
+Bash pip install -r requirements.txt
 ```
 Running the AnalysisExecute the main script to train the models and generate performance reports:Bash
-```python main.py
+```
+python main.py
 ```
 ## 🛠️ Tech Stack
 Language: PythonLibraries: Pandas, Scikit-Learn, Matplotlib, 
